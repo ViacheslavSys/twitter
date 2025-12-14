@@ -52,3 +52,4 @@ coverage/
 
 # Vite cache
 .vite/
+.env
